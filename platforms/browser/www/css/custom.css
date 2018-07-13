@@ -1,0 +1,63 @@
+#branding {
+	background: url(images/logo.png) no-repeat;
+	background-position: center;
+	width: 100%;
+	height: 165px;
+}
+
+.ui-page-theme-a {
+	background: url(images/bg.png);
+}
+
+.choice_list h1{
+	font-weight:normal;
+	font-style:italic;
+	font-size: 18px;
+	padding:20px 0 15px 50px;
+}
+
+#home .choice_list h1{
+	background:url(images/pagination.png) no-repeat 0px 0px;
+}
+
+#choose_town .choice_list h1{
+	background:url(images/pagination.png) no-repeat 0px -60px;
+}
+
+#choose_restaurant .choice_list h1{
+	background:url(images/pagination.png) no-repeat 0px -115px;
+}
+
+.ui-page-theme-a .ui-bar-inherit{
+	background-color:#acacac;
+	
+}
+
+.ui-header{
+	background:url(images/header_logo.png) no-repeat;
+	background-position: center;
+}
+
+.fourStars{
+	background: url(images/pagination.png) no-repeat 0px -182px;
+	height: 25px;
+}
+
+.threeStars{
+	background: url(images/pagination.png) no-repeat -26px -182px;
+	height: 25px;
+}
+
+.twoStars{
+	background: url(images/pagination.png) no-repeat -50px -182px;
+	height: 25px;
+}
+
+.oneStar{
+	background: url(images/pagination.png) no-repeat -75px -182px;
+	height: 25px;
+}
+
+.ui-listview>li p {
+	font-size: 0em;
+}
