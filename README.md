@@ -1,14 +1,8 @@
-# A Blank PhoneGap App
+# Restaurant Picker
 
-## Usage
+It is an app that is developed by following the tutorial about JQuery Mobile at: https://www.noupe.com/development/jquery-mobile-tutorial-creating-a-restaurant-picker-web-app.html
 
-### PhoneGap CLI
+PhoneGap is used in order to build apk file by following the tutorial at: https://www.formget.com/phonegap-build/
 
-    $ phonegap create my-app --template blank
-
-### Desktop
-
-In your browser, open the file:
-
-    /www/index.html
+If you want just JQuery Mobile source files, they are into the 'www' folder.
 
